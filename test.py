@@ -1,2 +1,2 @@
 def test():
-  print("hello world to sonix")
+  print("hello to sonix")
